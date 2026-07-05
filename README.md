@@ -9,7 +9,7 @@ My own website is <a href="https://benpetronis.vercel.app" target="_blank">Benas
 <br>
 
 <div float="left" align="center">
-    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif](https://tenor.com/8ijz.gif" width="50%"/>
     <br>
 </div>
 
