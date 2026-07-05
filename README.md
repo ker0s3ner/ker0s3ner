@@ -25,11 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/rO9KzUhiIQE.gif" width="10%">
+  <img src="https://media1.tenor.com/m/zbXx2kuJMIIAAAAd/israel-cat-girl-benjamin-netanyahu.gif" width="10%">
 </p>
 
 <p align="center">
-
     ■ I genuinely hate foids ■
-
 </p>
