@@ -9,7 +9,7 @@ My own website is <a href="https://benpetronis.vercel.app" target="_blank">Benas
 <br>
 
 <div float="left" align="center">
-    <img src="https://tenor.com/8ijz.gif" width="50%"/>
+    <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="50%"/>
     <br>
 </div>
 
@@ -17,7 +17,7 @@ My own website is <a href="https://benpetronis.vercel.app" target="_blank">Benas
   <p align="center">
   ▮ I make lots of different apps. I'm also the founder of Gamma Studios (feel free to check it out, we make cool shit. Also privacy focused? crazy)▮
   </p>
-        <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+        <img src="[https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif](https://tenor.com/rO9KzUhiIQE.gif)" width="10%">
 
   <p align="center">
     ■ I genuinely hate foids ■
