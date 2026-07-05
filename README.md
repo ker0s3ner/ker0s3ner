@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  ▮ I make lots of different apps. I'm also the founder of Gamma Studios (feel free to check it out, we make cool shit. Also privacy focused? crazy) ▮
+  ▮ I make lots of different apps. I'm also the founder of <a href="https://gammastudios.xyz" target="_blank">Gamma Studios</a> (feel free to check it out, we make cool shit. Also privacy focused? crazy) ▮
 </p>
 
 <p align="center">
