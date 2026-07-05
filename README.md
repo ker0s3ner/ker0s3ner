@@ -3,7 +3,7 @@
 <br>
 <p align="center">
 🌹 Hello! I'm ker0. I'm a LARP that creates things! <br>
-My own website is <a href="https://benpetronis.vercel.app" target="_blank">tbd</a> The portfolio is unfinished <:(🌹
+My own website is <a href="https://benpetronis.vercel.app" target="_blank">Benas Petronis</a> The portfolio is unfinished <:(🌹
 </p>
 <h1> </h1>
 <br>
