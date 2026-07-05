@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+  <img src="https://media1.tenor.com/m/dWqnh5b1wHYAAAAC/boy-kiss.gif" width="4%">
   Welcome to <a href="https://diinki.me" target="_blank">ker0's</a> github page
-  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+  <img src="https://media1.tenor.com/m/dWqnh5b1wHYAAAAC/boy-kiss.gif" width="4%">
 </h1>
 
 <br>
