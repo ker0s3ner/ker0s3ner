@@ -3,20 +3,13 @@
 <br>
 <p align="center">
 🌹 Hello! I'm ker0. I'm a LARP that creates things! <br>
-My own website is <a href="https://benpetronis.vercel.app" target="_blank">Benas Petronis</a> The portfolio is unfinished <dunce|:(🌹
+My own website is <a href="https://benpetronis.vercel.app" target="_blank">Benas Petronis</a> The portfolio is unfinished (lolz)
 </p>
 <h1> </h1>
 <br>
 
 <div float="left" align="center">
     <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
-  <div>
-     <kbd>
-       <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Machine ■ Operating System ■ Artwork ■  &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br> <br>
-     </kbd>
-  <div>
     <br>
 </div>
 
