@@ -15,10 +15,10 @@ My own website is <a href="https://benpetronis.vercel.app" target="_blank">Benas
 
 
   <p align="center">
-  ▮ I code in lots of different domains, therefore the stack or topic doesn't really matter to me. If I find it interesting, I'll do it. ▮
+  ▮ I make lots of different apps. I'm also the founder of Gamma Studios (feel free to check it out, we make cool shit. Also privacy focused? crazy)▮
   </p>
         <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
 
   <p align="center">
-    ■ 𝐈𝐧 𝐭𝐡𝐞 𝐩𝐫𝐨𝐯𝐢𝐧𝐜𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐢𝐧𝐝 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 ■
+    ■ I genuinely hate foids ■
   </p>
